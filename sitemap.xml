@@ -3,132 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gohugo.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/markdown-syntax/</loc>
+    <loc>/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/publications/markdown-syntax/</loc>
+    <loc>/publications/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/talks/markdown-syntax/</loc>
+    <loc>/talks/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/talks/</loc>
+    <loc>/talks/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/series/themes-guide/</loc>
+    <loc>/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/rich-content/</loc>
+    <loc>/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/placeholder-text/</loc>
+    <loc>/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/text/</loc>
+    <loc>/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/math-typesetting/</loc>
+    <loc>/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/posts/emoji-support/</loc>
+    <loc>/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gohugo.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
