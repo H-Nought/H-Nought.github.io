@@ -1,11 +1,15 @@
-<form action="https://getform.io/f/d4694319-d0a1-45e3-8dcc-2256c48211ee" 
-      method="POST"
-      accept-charset="UTF-8">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown Syntax Guide on HNought</title>
+    <link>/contact/</link>
+    <description>Recent content in Markdown Syntax Guide on HNought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-    <input type="text" name="fullname">
-    <input type="email" name="email">
-    <input type="text" name="message">
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
-    <button type="submit">Send</button>
     
-</form>
+  </channel>
+</rss>
