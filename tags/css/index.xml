@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on HNought</title>
-    <link>https://github.com/HNought/HNought.github.io/tags/css/</link>
+    <link>https://HNought.github.io/tags/css/</link>
     <description>Recent content in css on HNought</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/HNought/HNought.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://HNought.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://github.com/HNought/HNought.github.io/posts/markdown-syntax/</link>
+      <link>https://HNought.github.io/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/HNought/HNought.github.io/posts/markdown-syntax/</guid>
+      <guid>https://HNought.github.io/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://github.com/HNought/HNought.github.io/publications/markdown-syntax/</link>
+      <link>https://HNought.github.io/publications/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/HNought/HNought.github.io/publications/markdown-syntax/</guid>
+      <guid>https://HNought.github.io/publications/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://github.com/HNought/HNought.github.io/talks/markdown-syntax/</link>
+      <link>https://HNought.github.io/talks/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/HNought/HNought.github.io/talks/markdown-syntax/</guid>
+      <guid>https://HNought.github.io/talks/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
